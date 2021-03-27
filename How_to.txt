@@ -50,7 +50,7 @@ Notes:
 Please excuse variable names
 Choose React as I wanted the interface/ui for testing.
 There are screenshots of the optmizely dashboard configuration in this github.
-If my notes have an error please check these lines of code for important names that link with the dashboard.
+Important lines of code below
 TRACKER = optimizely.track('making_purchase')
 FLAG FEATURE = <OptimizelyFeature feature="feature-flag-test">
 DEFAULT VARAIBLE = {(enabled, variables) => (`Got a discount of $${variables.amount}`
